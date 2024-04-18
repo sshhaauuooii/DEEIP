@@ -1,0 +1,6 @@
+
+{'mode': 'test', 'epoch': 30, 'device': 'cuda', 'train_batch_size': 4, 'eval_batch_size': 1, 'f1score': 'macro_f1', 'model_path': '../../Muc34/best_model/model.pth', 'conti': False, 'logic_batch': 8, 'max_position_embeddings': 512, 'Bert_dropout': 0.4, 'BL_input': 768, 'BL_layers': 1, 'BL_hidden': 256, 'convs2d': False}
+Testing models...
+72.08396903217051
+47.29974852101059
+57.119240001872924

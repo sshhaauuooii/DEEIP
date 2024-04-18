@@ -1,0 +1,1 @@
+(my_EE) fusheng@fusheng:~/pycharm_program/my_EE/double_attention/Muc34/predatas$ python text2tag.py --method=train
